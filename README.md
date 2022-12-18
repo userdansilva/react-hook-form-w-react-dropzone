@@ -1,4 +1,4 @@
-# React Hook Form + React Dropzopne
+# React Hook Form + React Dropzone
 
 Screenshots
 
